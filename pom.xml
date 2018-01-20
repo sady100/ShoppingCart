@@ -138,12 +138,13 @@
 	</dependency>
 	
 	</dependencies>
-	<distributionManagement>
+	<!--
+<distributionManagement>
     <repository>
         <id>shopping</id>
            <url>http://192.168.233.130:8081/nexus/content/repositories/shopping/</url>
     </repository>
- </distributionManagement>
+ </distributionManagement> -->
 	<build>
 		<finalName>pages</finalName>
 	</build>
